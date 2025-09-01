@@ -1,0 +1,4 @@
+( TITLE-ABS-KEY ( "Urban Design" OR "Urban Landscape" OR "Townscape" ) AND TITLE-ABS-KEY ( "Assessment" OR "Appraisal" OR "Analysis" ) AND TITLE-ABS-KEY ( "machine learning" OR "deep learning" OR "Artificial Intelligence" ) )
+
+
+yield 558 results on 23 January 2025
