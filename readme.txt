@@ -40,8 +40,27 @@ Sensitivity 1 — Title+Abstract vs Full: Correlates document-level topic propor
 Sensitivity 2 — Split-Half (Time): Splits by the median year and fits STM on early vs late halves. Compares topic–word distributions using a vocabulary-aligned correlation (common words only).
 Saves diagnostics: model_diagnostics.png (from searchK()).
 
+Overview GLVIA3 pipeline (TA1–TA9) using open data; Amsterdam case (Centrum vs IJburg).
+Outputs: outputs/metrics_summary.csv, plots/*.png, outputs/ta_layers.gpkg.
+Data sources (fetched automatically)
+Buildings: 3DBAG LoD1.3 WFS → fallback to OSM.
+Terrain: AHN DTM/DSM via WCS.
+Land-use: CBS ELU WFS → fallback to OSM landuse/natural/leisure.
+Network & water: OSM/OSMnx; Trees: Amsterdam Trees API.
+
+Metrics implemented (TA1–TA9)
+TA1 Enclosure + skyline roughness; TA2 slope vs height; TA3 tessellation-based grain;
+TA4 Spacematrix (GSI/FSI/L) + optional period bins; TA5 land-use composition & κ vs ELU;
+TA6 water adjacency share + enclosure correlation; TA7 trees per km;
+TA8 100 m open-space index + closeness; TA9 intersection density, circuity, betweenness.
+
+Requirements
+Python 3.10+; packages: geopandas, osmnx, networkx, rasterio, shapely, momepy, scipy, matplotlib, requests, lxml, pandas, numpy.
+Tip (Windows): use conda to get GDAL/GEOS/PROJ.
+
 README.md – Project overview and instructions.
 
 LICENSE – License for reuse (e.g., MIT/CC-BY).
+
 
 
