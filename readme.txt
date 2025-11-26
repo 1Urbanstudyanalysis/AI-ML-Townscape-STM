@@ -58,9 +58,13 @@ Requirements
 Python 3.10+; packages: geopandas, osmnx, networkx, rasterio, shapely, momepy, scipy, matplotlib, requests, lxml, pandas, numpy.
 Tip (Windows): use conda to get GDAL/GEOS/PROJ.
 
+Townscape assessment report
+The file TA_report.docx provides a narrative companion to the code and data. It describes the study areas (Amsterdam Centrum and IJburg), details all input datasets, and explains how each townscape attribute (TA1–TA9) is measured, including equations, statistics, and GLVIA3 relevance. Use this report as a guide when reproducing the metrics or adapting the pipeline to new cities.
+
 README.md – Project overview and instructions.
 
 LICENSE – License for reuse (e.g., MIT/CC-BY).
+
 
 
 
