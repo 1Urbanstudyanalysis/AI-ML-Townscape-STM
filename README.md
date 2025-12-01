@@ -66,9 +66,13 @@ The file TA_report.docx provides a narrative companion to the code and data. It 
 
 Scopus Query Records
 01_identification_original (573 records).This file contains the raw Scopus export from the initial search query.
+
 02_screening_english only (557 records). After applying a language filter (English only), 557 records were retained. Non-English publications were excluded. This step corresponds to PRISMA: Initial screening.
+
 03_screening (368 records).Titles and abstracts were screened for relevance based on inclusion/exclusion criteria such as:Urban design / townscape relevance, Use of ML / DL / AI, Empirical or methodological contribution, Exclusion of unrelated domains (traffic engineering, agriculture, medicine, robotics, etc.). This step corresponds to PRISMA: Title–abstract screening.
+
 4_filtering (242 records). Further filtering was applied, removing:Duplicates, Non-peer-reviewed items, Short papers, workshop abstracts, and posters, Articles outside the domain scope.This step corresponds to PRISMA filtering.
+
 05_Final 75 (full text 72). Final set of articles included for full-text analysis. 75 articles met inclusion criteria and 72 articles had full text accessible and were used for the final synthesis. This corresponds to PRISMA: Full-text eligibility & Inclusion.
 
 README.md – Project overview and instructions.
