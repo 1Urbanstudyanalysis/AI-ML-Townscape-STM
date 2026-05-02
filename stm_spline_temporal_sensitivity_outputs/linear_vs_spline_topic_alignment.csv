@@ -1,0 +1,9 @@
+"linear_topic","linear_topic_label","best_matching_spline_topic","cosine_similarity","beta_correlation","frex_jaccard"
+"T1"," Image-Based Urban Modelling","Spline_T1",0.999999685262608,0.999999680461772,1
+"T2"," Urban Design & Affective/Generative Space","Spline_T2",0.999999981000215,0.999999980752215,1
+"T3"," Urban Clustering & Built-Form Modelling","Spline_T3",0.99999644540624,0.999996403938384,1
+"T4"," Urban Vegetation Mapping from Point Data (LiDAR/Point-Cloud)","Spline_T4",0.999999957592422,0.99999995666476,1
+"T5"," Urban Network Prediction Modelling","Spline_T5",0.999999980929147,0.999999980534781,1
+"T6"," Urban Landscape Indicators & Modelling","Spline_T6",0.999999744653099,0.999999740950764,1
+"T7"," Urban Land-Use & Public-Space Analytics","Spline_T7",0.999999993609251,0.999999993451684,1
+"T8"," Street-View Imagery for Urban Environmental Analysis","Spline_T8",0.999999295564759,0.999999282430705,1
