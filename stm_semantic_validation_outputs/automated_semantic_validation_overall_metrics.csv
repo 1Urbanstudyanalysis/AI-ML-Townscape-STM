@@ -1,0 +1,4 @@
+"metric","count","total_topics","proportion"
+"Primary attribute matched automated Top-1",4,8,0.5
+"Primary attribute appeared in automated Top-3",4,8,0.5
+"Primary or secondary human label appeared in automated Top-3",8,8,1

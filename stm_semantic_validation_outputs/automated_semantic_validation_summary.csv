@@ -1,0 +1,9 @@
+"topic","topic_label","human_primary","human_secondary","automated_top1","automated_top1_score","automated_top3","primary_matches_top1","primary_in_top3","any_human_label_in_top3"
+"T1","Image-based urban modelling","Form","Context;Grain","Connectivity",0.00325103292480093,"Connectivity; Public realm; Context",FALSE,FALSE,TRUE
+"T2","Urban design and affective generative space","Public realm","Form","Public realm",0.0183283579723297,"Public realm; Vegetation; Context",TRUE,TRUE,TRUE
+"T3","Urban clustering and built-form modelling","Grain","Context;Form;Land-use","Form",0.0123829498021453,"Form; Connectivity; Public realm",FALSE,FALSE,TRUE
+"T4","Urban vegetation mapping from LiDAR and point-cloud data","Vegetation","","Vegetation",0.0225015389469777,"Vegetation; Context; Public realm",TRUE,TRUE,TRUE
+"T5","Urban network prediction modelling","Connectivity","Land-use","Context",0.00626930996562758,"Context; Land-use; Public realm",FALSE,FALSE,TRUE
+"T6","Urban landscape indicators and modelling","Public realm","Context;Form;Vegetation","Vegetation",0.0535345206088252,"Vegetation; Context; Land-use",FALSE,FALSE,TRUE
+"T7","Urban land-use and public-space analytics","Land-use","Public realm;Connectivity","Land-use",0.0171651958742244,"Land-use; Public realm; Context",TRUE,TRUE,TRUE
+"T8","Street-view imagery for urban environmental analysis","Public realm","Context;Form;Land-use;Vegetation","Public realm",0.0216105828060715,"Public realm; Vegetation; Context",TRUE,TRUE,TRUE

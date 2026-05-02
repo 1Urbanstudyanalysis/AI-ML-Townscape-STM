@@ -1,0 +1,73 @@
+"topic","topic_label","rank","attribute","similarity"
+"T1","Image-based urban modelling",1,"Connectivity",0.00325103292480093
+"T1","Image-based urban modelling",2,"Public realm",0.00313474824976207
+"T1","Image-based urban modelling",3,"Context",0.00024423418725728
+"T1","Image-based urban modelling",4,"Topography",0.000224910372651319
+"T1","Image-based urban modelling",5,"Vegetation",0.000204993444569782
+"T1","Image-based urban modelling",6,"Form",0.000204929196871823
+"T1","Image-based urban modelling",7,"Grain",0.000177017900106078
+"T1","Image-based urban modelling",8,"Land-use",0
+"T1","Image-based urban modelling",9,"Water",0
+"T2","Urban design and affective generative space",1,"Public realm",0.0183283579723297
+"T2","Urban design and affective generative space",2,"Vegetation",0.0064578867648936
+"T2","Urban design and affective generative space",3,"Context",0.00539191749476173
+"T2","Urban design and affective generative space",4,"Topography",0.000237981871411219
+"T2","Urban design and affective generative space",5,"Form",0.000216839415645637
+"T2","Urban design and affective generative space",6,"Grain",0.000187305950561198
+"T2","Urban design and affective generative space",7,"Land-use",0
+"T2","Urban design and affective generative space",8,"Water",0
+"T2","Urban design and affective generative space",9,"Connectivity",0
+"T3","Urban clustering and built-form modelling",1,"Form",0.0123829498021453
+"T3","Urban clustering and built-form modelling",2,"Connectivity",0.00318147029245772
+"T3","Urban clustering and built-form modelling",3,"Public realm",0.0030676737706563
+"T3","Urban clustering and built-form modelling",4,"Context",0.00273489780984882
+"T3","Urban clustering and built-form modelling",5,"Topography",0.000220097945978072
+"T3","Urban clustering and built-form modelling",6,"Vegetation",0.000200607182127284
+"T3","Urban clustering and built-form modelling",7,"Grain",0.000173230232805231
+"T3","Urban clustering and built-form modelling",8,"Land-use",0
+"T3","Urban clustering and built-form modelling",9,"Water",0
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",1,"Vegetation",0.0225015389469777
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",2,"Context",0.0100004040979682
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",3,"Public realm",0.00621435466102441
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",4,"Land-use",0.00299531016031235
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",5,"Connectivity",0.00291327115773938
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",6,"Topography",0.00020154360687123
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",7,"Form",0.000183638348929343
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",8,"Grain",0.000158626859435515
+"T4","Urban vegetation mapping from LiDAR and point-cloud data",9,"Water",0
+"T5","Urban network prediction modelling",1,"Context",0.00626930996562758
+"T5","Urban network prediction modelling",2,"Land-use",0.00332191503380509
+"T5","Urban network prediction modelling",3,"Public realm",0.000380240752349855
+"T5","Urban network prediction modelling",4,"Topography",0.000223519669683565
+"T5","Urban network prediction modelling",5,"Vegetation",0.000203725895241697
+"T5","Urban network prediction modelling",6,"Form",0.000203662044810717
+"T5","Urban network prediction modelling",7,"Grain",0.000175923333785631
+"T5","Urban network prediction modelling",8,"Water",0
+"T5","Urban network prediction modelling",9,"Connectivity",0
+"T6","Urban landscape indicators and modelling",1,"Vegetation",0.0535345206088252
+"T6","Urban landscape indicators and modelling",2,"Context",0.00637617389719886
+"T6","Urban landscape indicators and modelling",3,"Land-use",0.00337853895299309
+"T6","Urban landscape indicators and modelling",4,"Public realm",0.00316846811296043
+"T6","Urban landscape indicators and modelling",5,"Topography",0.000227329688779264
+"T6","Urban landscape indicators and modelling",6,"Form",0.000207133579467584
+"T6","Urban landscape indicators and modelling",7,"Grain",0.000178922046436072
+"T6","Urban landscape indicators and modelling",8,"Water",0
+"T6","Urban landscape indicators and modelling",9,"Connectivity",0
+"T7","Urban land-use and public-space analytics",1,"Land-use",0.0171651958742244
+"T7","Urban land-use and public-space analytics",2,"Public realm",0.0105895202499015
+"T7","Urban land-use and public-space analytics",3,"Context",0.00620294267839516
+"T7","Urban land-use and public-space analytics",4,"Vegetation",0.00310139997180371
+"T7","Urban land-use and public-space analytics",5,"Topography",0.000221153477199652
+"T7","Urban land-use and public-space analytics",6,"Form",0.000201506066321792
+"T7","Urban land-use and public-space analytics",7,"Grain",0.000174060998937259
+"T7","Urban land-use and public-space analytics",8,"Water",0
+"T7","Urban land-use and public-space analytics",9,"Connectivity",0
+"T8","Street-view imagery for urban environmental analysis",1,"Public realm",0.0216105828060715
+"T8","Street-view imagery for urban environmental analysis",2,"Vegetation",0.0158283652799566
+"T8","Street-view imagery for urban environmental analysis",3,"Context",0.00775479093116108
+"T8","Street-view imagery for urban environmental analysis",4,"Connectivity",0.00329719504085247
+"T8","Street-view imagery for urban environmental analysis",5,"Topography",0.000228103923428465
+"T8","Street-view imagery for urban environmental analysis",6,"Form",0.000207839030634557
+"T8","Street-view imagery for urban environmental analysis",7,"Grain",0.000179531415360125
+"T8","Street-view imagery for urban environmental analysis",8,"Land-use",0
+"T8","Street-view imagery for urban environmental analysis",9,"Water",0
