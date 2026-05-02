@@ -1,0 +1,10 @@
+"metric","value"
+"Number of LDA-Gibbs chains",3
+"K",8
+"Burn-in iterations",1000
+"Sampling iterations",3000
+"Thinning interval",100
+"Best chain",2
+"Best-chain median cosine similarity",0.853466991679363
+"Best-chain median beta correlation",0.850917674635019
+"Best-chain median top-term Jaccard",0.274661508704062

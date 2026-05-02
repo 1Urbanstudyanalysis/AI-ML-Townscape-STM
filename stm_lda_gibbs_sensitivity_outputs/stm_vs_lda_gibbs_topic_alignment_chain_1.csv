@@ -1,0 +1,9 @@
+"chain","seed","stm_topic","stm_topic_label","matched_lda_topic","cosine_similarity","beta_correlation","top_term_jaccard","common_vocab_size"
+1,321,"T1","Image-based urban modelling","LDA_T7",0.945310183651669,0.944684862166753,0.45,23919
+1,321,"T2","Urban design and affective/generative space","LDA_T6",0.878298685043647,0.876646097302075,0.234042553191489,23919
+1,321,"T3","Urban clustering and built-form modelling","LDA_T5",0.89506896027227,0.893701081398074,0.302325581395349,23919
+1,321,"T4","Urban vegetation mapping from LiDAR/point-cloud data","LDA_T3",0.766969951332629,0.763279781431351,0.239130434782609,23919
+1,321,"T5","Urban network prediction modelling","LDA_T8",0.808981103464598,0.805842372400959,0.176470588235294,23919
+1,321,"T6","Urban landscape indicators and modelling","LDA_T1",0.801329551259621,0.797483429858732,0.183673469387755,23919
+1,321,"T7","Urban land-use and public-space analytics","LDA_T2",0.511601960935759,0.503125368814837,0.0980392156862745,23919
+1,321,"T8","Street-view imagery for urban environmental analysis","LDA_T4",0.876134237356039,0.873964753170627,0.25531914893617,23919
