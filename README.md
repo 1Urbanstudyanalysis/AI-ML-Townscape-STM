@@ -77,6 +77,9 @@ Scopus Query Records
 
 README.md – Project overview and instructions.
 
+Cite this article
+Jameel, T., Ujang, U., Azri, S. et al. Using structural topic modelling to identify fragmentation and integration in AI-driven townscape assessment. Spat. Inf. Res. 34, 37 (2026). https://doi.org/10.1007/s41324-026-00696-7
+
 LICENSE – License for reuse (e.g., MIT/CC-BY).
 
 
